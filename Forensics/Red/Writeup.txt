@@ -1,0 +1,5 @@
+1. Downloaded the png file
+2. Opened terminal and used zsteg command (stenography tool) to find all hidden data
+3. Found a string of letters in base64 format
+5. Used cyberchef to convert base64 to utf
+4. Got the flag as picoCTF{r3d_1s_th3_ult1m4t3_cur3_f0r_54dn355_}
