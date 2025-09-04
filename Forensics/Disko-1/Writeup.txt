@@ -1,4 +1,0 @@
-1. Downloaded the gzip file
-2. Opened terminal and used strings command to find all strings
-3. Further added a pipe to strings with grep picoCTF
-4. Got the flag as picoCTF{1t5_ju5t_4_5tr1n9_be6031da}
